@@ -1,0 +1,144 @@
+-----------------------------------------------------------------------
+Astraea World LoreBook Entry
+----------------------------
+
+Astraea is a vast and diverse world, where the continents sprawl out like the fingers of a giant hand reaching for the stars. The largest continent, known as Valoria, is a land of towering mountains and lush forests, teeming with life and home to various kingdoms and empires. 
+
+In Astraea each land mass has its own unique characteristics, from the desert wasteland of Aetheria, where the sun beats down mercilessly, to the frozen tundras of Niflheim, where only the hardiest creatures survive.
+
+The inhabitants of Astraea are as varied as the lands themselves.
+
+In Astraea Humans are the most common, but they share the world with elves, dwarves, orcs, and a plethora of other fantastical species. Each race brings its own culture, traditions, and technology to the table, resulting in a tapestry of societies that range from medieval to futuristic.
+
+In Astraea the air is filled with the scent of magic, and the skies are often painted with the hues of spells being cast in the heat of battle.
+
+In Astraea the cities are bustling with activity, as merchants peddle their wares and adventurers share tales of their exploits.
+
+In Astraea the buildings are a mix of styles, from ancient ruins that whisper of lost civilizations to gleaming towers that touch the clouds. The streets are cobbled with stones that have seen countless battles, and the taverns are filled with the laughter and camaraderie of those seeking refuge from the dangers outside.
+
+The people of Astraea are as varied as the lands they inhabit. Some are virtuous, fighting for justice and the greater good, while others are ruthless, seeking power and wealth at any cost.
+
+The world of Astraea is governed by a complex system of politics and alliances, where a single misstep can lead to war or peace.
+
+Your classmates in Class 2-A will also be part of this journey in Astraea, but how you interact with them is entirely up to you. Will you form bonds of friendship or become rivals that push each other to new heights? The choices are yours to make.
+
+In Astraea, power is measured in Battle Power, or BP for short.
+
+In Astraea Battle Power is a numerical representation of an individual's overall combat potential, encompassing their strength, speed, magical abilities, and experience. As one gains experience from battles and quests, their Battle Power increases, allowing them to face stronger adversaries and unlock new skills and spells.
+
+In Astraea the leveling system is akin to a ladder, with each rung representing a significant increase in power. When a character reaches a certain amount of experience points, they 'level up', gaining a boost to their stats and often unlocking new abilities or spells. The higher the level, the more powerful the individual becomes, and the greater their reputation in the world.
+
+In Astraea the skills and spells individuals have are categorized by their effectiveness. The 'E' rank you see next to some of your abilities means they are elementary, the most basic form of those skills. As you use them in battle, they'll gain experience and can evolve into more powerful forms, denoted by higher ranks like 'D', 'C', 'B', 'A', and finally 'S'. The stronger the rank, the more devastating the skill or spell becomes.
+
+In combat in Astraea, your Battle Power will often determine the outcome. However, strategy, teamwork, and personal growth are equally important.
+
+In Astraea a lower-level character with a sharp mind and a strong will can sometimes triumph over a higher-level opponent who relies solely on brute force.
+
+Astraea is a tapestry of diverse lands, each with its own rich history and culture.
+
+In the world of Astraea the Kingdom of Luminara is a realm of eternal day, where the sun never sets and the lands are bathed in a soft, golden light. The people here are known for their beauty and grace, often with hair that shimmers like spun gold and eyes that mirror the myriad colors of the sun. 
+
+In the world of Astraea the Kingdom of Luminara's society is built around the worship of the Solar Pantheon, and their warriors are renowned for their use of light-based magic and gleaming, radiant armor.
+
+In the world of Astraea the Empire of Umbrara is shrouded in perpetual night, this realm is a land of shadows and whispers. The citizens of Umbrara are adept at navigating the dark, and their eyes are often tinged with shades of purple and blue, allowing them to see in the dimmest of lights. 
+
+In the world of Astraea the Empire of Umbrara's armies are feared for their mastery of shadow magic and their silent, swift attacks. The empire is ruled by a mysterious figure known only as the Shadow Emperor.
+
+In the world of Astraea the Sylvan Kingdom of Elyria is an expansive forest realm where the trees whisper ancient secrets and the air is thick with the scent of blooming flowers. The elves of Elyria are masters of archery and stealth, moving through the woods with an uncanny grace. 
+
+In the world of Astraea the Sylvan Kingdom of Elyria's culture is deeply intertwined with the natural world, and they are guardians of the ancient, mystical beings that dwell within the forest's depths.
+
+In the world of Astraea the Iron Mountains of Dwarfheim is a kingdom carved from the very bones of the earth, where the dwarves live in vast, underground cities. These stout, bearded folk are unrivaled in their craftsmanship and mining prowess. 
+
+In the world of Astraea the Iron Mountains of Dwarfheim's society is structured around clans, and their warriors are known for their unyielding endurance and mastery of heavy, earth-shaking weaponry.
+
+In the world of Astraea the Free Cities of the Parched Expanse are a collection of city-states scattered across the vast desert of Aetheria. These cities are bastions of trade and innovation, where water is more valuable than gold.
+
+In the world of Astraea the Free Cities of the Parched Expanse's inhabitants are a mix of humans and other desert-dwelling species, and their technology often involves ingenious ways of harnessing the sun's power and conserving water.
+
+In the world of Astraea the Icy Kingdom of Niflheim is a realm of endless winter, where the land is locked in a permanent freeze. The natives here are hardy and resilient, with the ability to withstand the harshest of cold.
+
+In the world of Astraea the Icy Kingdom of Niflheim's society is built around the worship of the Frost Giants, and their warriors wield the power of ice and frost in battle.
+
+In the world of Astraea the Oceanic Kingdom of Atlantia is a hidden realm beneath the waves, inhabited by merfolk and other aquatic species. The city is a marvel of bioluminescent coral and enchanted crystal, with its denizens possessing the ability to manipulate water and wield its power in combat. 
+
+In the world of Astraea the Oceanic Kingdom of Atlantia's citizens are a peaceful people, but fiercely protective of their underwater domain.
+
+In the world of Astraea the Volcanic Lands of Inferno are a harsh and unforgiving region, where the ground trembles with the fury of the earth. The inhabitants of Inferno are resilient and fiery, with a culture centered around the worship of the volcanic deities. 
+
+In the world of Astraea the Volcanic Lands of Inferno's warriors are feared for their mastery of fire and earth magic, and their blacksmiths forge weapons of unparalleled strength in the volcanoes' fiery embrace.
+
+In the world of Astraea the Celestial City of Seraphim is a floating metropolis high in the skies, inhabited by the angelic Seraphim. This city is a bastion of light and purity, its towers and spires reaching towards the heavens.
+
+In the world of Astraea the Celestial City of Seraphim's Seraphim are powerful beings of divine lineage, with abilities that range from healing to the command of holy flames.
+
+In the world of Astraea the Abyssal Depths of Tartarus is a nightmarish realm of endless caverns and twisted landscapes, ruled by the fearsome Lords of the Underworld. The demons and other creatures that dwell here are feared throughout Astraea for their malicious intent and overwhelming power. Only the bravest or most foolish venture into the abyss.
+
+In the world of Astraea the Mechanized City-State of Clockwork is a place where magic and technology intertwine in a dance of gears and arcane energy. The inhabitants of Clockwork are known for their ingenious inventions and steam-powered marvels. 
+
+In the world of Astraea the Mechanized City-State of Clockwork's city itself is a living machine, with moving streets and buildings that shift and change with the whims of its rulers.
+
+In the world of Astraea the Enigmatic Isles of the Dragon Lords are scattered across the vast oceans, these islands are the domain of the mighty Dragon Lords. Each island is a bastion of a different element, and the dragons that rule them are equally diverse in their abilities and temperaments.
+
+In the world of Astraea in the Enigmatic Isles of the Dragon Lords The dragons are ancient and powerful, and their human subjects live in awe of their draconic overlords.
+
+These are but a few of the many kingdoms and lands that make up the vast world of Astraea. Each one holds its own secrets, alliances, and conflicts. The world is vast, and the possibilities for adventure and discovery are endless.
+
+The guilds of Astraea are numerous and varied, each with their own specialties and purposes. Some are known for their elite warriors, while others are famed for their skilled artisans or knowledgeable scholars.
+
+In the world of Astraea the Knights of the Round Table is a prestigious guild dedicated to the protection of the weak and the upholding of justice. Their knights are renowned for their chivalry and prowess in combat.
+
+In the world of Astraea the Arcane Circle is a guild of mages and scholars, dedicated to the study and mastery of the arcane arts. Their members often wield powerful spells and are sought after for their wisdom and magical abilities.
+
+In the world of Astraea the Shadow Guild is an enigmatic organization of assassins and spies, known for their stealth and ruthless efficiency. They operate in the shadows, carrying out their missions with precision and leaving no trace behind.
+
+In the world of Astraea the Adventurers' Guild is a sprawling network of mercenaries and explorers, this guild takes on a wide variety of jobs and quests. It's a place where one can find work and camaraderie, no matter their background or skills.
+
+In the world of Astraea the Merchants' Consortium is a coalition of traders and merchants who control the flow of goods across the world. Their wealth and influence are unrivaled, and they are not above using their power to shape the political landscape.
+
+In the world of Astraea the Guild of the Blacksmiths is a gathering of master craftsmen, capable of forging weapons and armor of unparalleled quality. Their creations are often enchanted with powerful spells, making them highly sought after by warriors.
+
+In the world of Astraea the Bardic College is an institution for those who wish to master the art of music, storytelling, and performance. Their members are not only entertainers but often act as historians and diplomats, using their talents to sway the hearts and minds of others.
+
+In the world of Astraea the Order of the Healing Hand is a guild of healers and doctors, whose members are bound by a sacred oath to mend the wounds of the battlefield and bring solace to the suffering.
+
+The Beast Tamers' Union is where those who have the gift of communicating with and controlling the wild beasts of Astraea come together in this guild, offering their services as trainers and protectors of the natural world.
+
+In the world of Astraea the Rangers of the Wild are a guild skilled in tracking and survival, these rangers are the eyes and ears of the world's wilderness. They protect the lands from threats that would harm the balance of nature.
+
+These guilds are but a fraction of what Astraea has to offer. Each one holds its own secrets and opportunities for advancement.
+
+The Sages of Astraea. These are individuals of immense wisdom and power, often revered as living legends.
+
+In the world of Astraea each Sage has mastered a unique aspect of the world's magic, granting them abilities that surpass even the most skilled of mages. They are rare and often reclusive, but when they deign to interact with the world, their influence can be felt for generations.
+
+In the world of Astraea a Sage's power is not merely in their mastery of magic, but in their deep understanding of the fabric of reality itself. They can bend the laws of physics, manipulate time, and peer into the very essence of the soul. Their knowledge is vast, spanning not just the arcane but also history, philosophy, and the subtleties of diplomacy.
+
+In the world of Astraea some Sages are benevolent, using their power to guide and protect the lands. Others are neutral, seeking only to expand their own understanding and power. And a few are malevolent, seeking to reshape the world to their own twisted desires.
+
+In the world of Astraea Sages are often accompanied by powerful guardians, be they mythical beasts or devoted disciples, ready to defend their masters from those who would seek to exploit their knowledge.
+
+In the world of Astraea encountering a Sage is a once-in-a-lifetime event, and their wisdom is often as sharp as the blades they wield.
+
+In the world of Astraea their abodes are often hidden, located in the most remote and inaccessible regions of the world. Some say that a Sage's lair can only be found by those who are pure of heart or those who have proven themselves worthy.
+
+IMPORTANT: {{user}} and his classmates, companions and friends are not particularly special. Their special abilities are relatively commonplace in Astraea.
+
+IMPORTANT: {{user}} is also NOT necessarily the 'main character' of the story. {{user}} will need to work to gain respect and prestige, just like anyone else would in Astraea.
+
+STORY: {{user}} and their classmates will initialize Battle Song at the beginning of the story when they first arrive in the world of Astraea by saying 'status.' Make sure {{user}}'s class and abilities are clearly communicated to {{user}}. {{user}}'s Battle Song panel cannot be seen by other characters, and vice versa. Give every character a name and personality of their own, even if they're minor characters.
+
+Battle Song: In the world of Astraea when generating a Class for user at the beginning, generate a class that's fitting for {{user}}'s desires, dreams, and personality, drawing from Japanese, culture, literature, Anime, and the Isekai genre for inspiration. The story, by nature, is meant to be an amalgamation of all kinds of Isekai stories, so be creative! 
+
+This class should be POWERFUL, maybe even completely overpowered. There's no need for balance, because the threats in Astraea are simply that strong. However, you should avoid simple reality-warping abilities and the like. They're a bit boring. Also avoid generic classes, like 'Demon Lord'. This class should be fitting for {{user}}.
+
+IMPORTANT: In the world of Astraea AVOID using DnD tropes and class archetypes. Err towards Japanese media when generating content for the story.
+
+EVENT: In the world of Astraea randomly, encounters with various powerful characters should occur. Sages, Aggressors, Demons, Gods, Goddesses. These events should have impact, so introduce them sparingly.
+
+In the world of Astraea Sages are an important part of the story, so it's important to give them unique and powerful abilities to work with. They should also have a wide variety of personalities. 
+
+In the world of Astraea many Sages are cocky, arrogant, and believe themselves to be above others. Some might not bat an eye at killing a civilian for disrespecting them. Others might be more level-headed. Sages, unlike their names would imply, are usually somewhat young and brash.
+
+
+
